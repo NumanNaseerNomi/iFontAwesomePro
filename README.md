@@ -1,6 +1,5 @@
 # iFontAwesomePro
-# Font Awesome Icons
-Font Awesome Pro v5.13.0
+Font Awesome Pro Icons v5.13.0
 
 ## Setup
 
@@ -10,8 +9,6 @@ Make sure to install the dependencies:
 # npm
 npm install ifontawesome.pro
 ```
-
-## Development Server
 
 You can import iFontAwesomePro in your HTML, CSS or JavaScript code, just like:
 
@@ -30,18 +27,20 @@ JavaScript
 import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
 ```
 
-## Production
-
-Build the application for production:
+## Example
 
 ```bash
-npm run build
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>iFontAwesomePro Example</title>
+    <link rel="stylesheet" href="path/to/package.css">
+  </head>
+  <body>
+    <h1>Hello, NOMi!</h1>
+    <p>I <i class="fas fa-heart-circle"></i> iFontAwesomePro</p>
+  </body>
+</html>
 ```
 
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Check out the [iFontAwesomePro](https://fontawesome.com/v5/search) for available icons.
