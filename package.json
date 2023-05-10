@@ -1,9 +1,14 @@
 {
     "name": "ifontawesome.pro",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "css/iFontAwesomePro.min.css",
     "description": "Font Awesome Pro v5.13.0",
     "author": "https://github.com/NumanNaseerNomi",
+    "repository":
+    {
+        "type": "git",
+        "url": "git+https://github.com/NumanNaseerNomi/iFontAwesomePro.git"
+    },
     "keywords":
     [
         "icon",
