@@ -1,0 +1,17 @@
+{
+    "name": "ifontawesome.pro",
+    "version": "1.0.0",
+    "main": "css/iFontAwesomePro.min.css",
+    "description": "Font Awesome Pro v5.13.0",
+    "author": "https://github.com/NumanNaseerNomi",
+    "keywords":
+    [
+        "icon",
+        "icons",
+        "iFontAwesome",
+        "FontAwesome",
+        "pro"
+    ],
+    "license": "MIT"
+}
+  
