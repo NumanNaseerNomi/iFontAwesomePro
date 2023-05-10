@@ -12,6 +12,11 @@
         "FontAwesome",
         "pro"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "files":
+    [
+        "css/**/*",
+        "webfonts/**/*"
+    ]
 }
   
