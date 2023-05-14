@@ -34,7 +34,7 @@ import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
 <html>
   <head>
     <title>iFontAwesomePro Example</title>
-    <link rel="stylesheet" href="path/to/package.css">
+    <link rel="stylesheet" href="ifontawesome.pro/css/iFontAwesomePro.min.css">
   </head>
   <body>
     <h1>Hello, NOMi!</h1>
