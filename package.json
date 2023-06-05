@@ -20,7 +20,11 @@
         "icons",
         "iFontAwesome",
         "FontAwesome",
-        "pro"
+        "pro",
+        "font",
+        "awesome",
+        "svg",
+        "bootstrap"
     ],
     "license": "MIT",
     "files":
