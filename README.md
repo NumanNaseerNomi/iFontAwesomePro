@@ -1,14 +1,14 @@
 # iFontAwesomePro
 ![npm](https://img.shields.io/npm/dt/ifontawesome.pro)
 
-Font Awesome Pro Icons v5.13.0
+Font Awesome Pro Icons
 
 ## Setup
 
 Make sure to install the dependencies:
 
+NPM
 ```bash
-# npm
 npm install ifontawesome.pro
 ```
 
@@ -16,17 +16,21 @@ You can import iFontAwesomePro in your HTML, CSS or JavaScript code, just like:
 
 HTML
 ```bash
-<link rel="stylesheet" href="ifontawesome.pro/css/iFontAwesomePro.min.css">
+<link rel="stylesheet" href="ifontawesome.pro/css/all.min.css">
+```
+or
+```bash
+<script src="ifontawesome.pro/js/all.min.js"></script>
 ```
 
 CSS
 ```bash
-@import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
+@import 'ifontawesome.pro/css/all.min.css';
 ```
 
 JavaScript
 ```bash
-import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
+import 'ifontawesome.pro';
 ```
 
 ## Example
@@ -36,13 +40,13 @@ import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
 <html>
   <head>
     <title>iFontAwesomePro Example</title>
-    <link rel="stylesheet" href="ifontawesome.pro/css/iFontAwesomePro.min.css">
+    <link rel="stylesheet" href="ifontawesome.pro/css/all.min.css">
   </head>
   <body>
     <h1>Hello, NOMi!</h1>
-    <p>I <i class="fas fa-heart-circle"></i> iFontAwesomePro</p>
+    <p>I <i class="fas fa-heart"></i> iFontAwesomePro</p>
   </body>
 </html>
 ```
 
-Check out the [iFontAwesomePro](https://fontawesome.com/v5/search) for available icons.
+Check out the [iFontAwesomePro](https://fontawesome.com) for available icons.
