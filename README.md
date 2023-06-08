@@ -30,7 +30,7 @@ CSS
 
 JavaScript
 ```bash
-import 'ifontawesome.pro/css/all.min.css';
+import 'ifontawesome.pro';
 ```
 
 ## Example
