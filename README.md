@@ -45,4 +45,4 @@ import 'ifontawesome.pro/css/all.min.css';
 </html>
 ```
 
-Check out the [iFontAwesomePro](https://fontawesome.com/v5/search) for available icons.
+Check out the [iFontAwesomePro](https://fontawesome.com) for available icons.
