@@ -1,7 +1,7 @@
 # iFontAwesomePro
 ![npm](https://img.shields.io/npm/dt/ifontawesome.pro)
 
-Font Awesome Pro Icons v5.13.0
+Font Awesome Pro Icons
 
 ## Setup
 
