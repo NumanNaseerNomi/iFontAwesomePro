@@ -40,7 +40,7 @@ import 'ifontawesome.pro/css/all.min.css';
   </head>
   <body>
     <h1>Hello, NOMi!</h1>
-    <p>I <i class="fas fa-heart-circle"></i> iFontAwesomePro</p>
+    <p>I <i class="fa-solid fa-heart"></i> iFontAwesomePro</p>
   </body>
 </html>
 ```
