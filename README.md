@@ -7,8 +7,8 @@ Font Awesome Pro Icons v5.13.0
 
 Make sure to install the dependencies:
 
+NPM
 ```bash
-# npm
 npm install ifontawesome.pro
 ```
 
@@ -16,17 +16,17 @@ You can import iFontAwesomePro in your HTML, CSS or JavaScript code, just like:
 
 HTML
 ```bash
-<link rel="stylesheet" href="ifontawesome.pro/css/iFontAwesomePro.min.css">
+<link rel="stylesheet" href="ifontawesome.pro/css/all.min.css">
 ```
 
 CSS
 ```bash
-@import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
+@import 'ifontawesome.pro/css/all.min.css';
 ```
 
 JavaScript
 ```bash
-import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
+import 'ifontawesome.pro/css/all.min.css';
 ```
 
 ## Example
@@ -36,7 +36,7 @@ import 'ifontawesome.pro/css/iFontAwesomePro.min.css';
 <html>
   <head>
     <title>iFontAwesomePro Example</title>
-    <link rel="stylesheet" href="ifontawesome.pro/css/iFontAwesomePro.min.css">
+    <link rel="stylesheet" href="ifontawesome.pro/css/all.min.css">
   </head>
   <body>
     <h1>Hello, NOMi!</h1>
