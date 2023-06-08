@@ -18,6 +18,10 @@ HTML
 ```bash
 <link rel="stylesheet" href="ifontawesome.pro/css/all.min.css">
 ```
+or
+```bash
+<script src="ifontawesome.pro/js/all.min.js"></script>
+```
 
 CSS
 ```bash
